@@ -1,12 +1,16 @@
-PetLife - Instruções de Uso
-Para visualizar o site localmente da Clínica Veterinária PetLife, siga estas simples instruções:
+## PetLife - Instruções de Uso
 
-Clone este repositório em sua máquina local:
-git clone https://github.com/seu-usuario/petlife-clinica-veterinaria.git
+1. **Clone o Repositório:**
+   ```bash
+   git clone https://github.com/seu-usuario/petlife-clinica-veterinaria.git
+   ```
 
-Abra o arquivo index.html em seu navegador da web.
-cd petlife-clinica-veterinaria
+2. **Abra o Site:**
+   ```bash
+   cd petlife-clinica-veterinaria
+   ```
+   Abra o arquivo `index.html` no seu navegador preferido.
 
-Em seguida, abra o arquivo index.html com o navegador de sua escolha.
+3. **Explore o Site:**
+   Navegue pelo site.
 
-Explore o site
