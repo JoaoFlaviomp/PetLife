@@ -11,6 +11,6 @@
    ```
    Abra o arquivo `index.html` no seu navegador preferido.
 
-3. **Explore o Site:**
-   Navegue pelo site.
+3. **Explore o Site**
+   
 
